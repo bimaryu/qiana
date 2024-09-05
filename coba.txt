@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="LOKAL"  tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png",SCTV
+https://streaming.indihometv.com/atm/hlsv3/sctv/playlist.m3u8?enc=N6s9W3ebss2iuv2A4ujGYg&exp=1725530646&encp=iC7ga3xDJ-DaJo2ErN_aDw&expp=1725541146
 
 #EXTINF:-1 group-title="LOKAL"  tvg-logo="https://images.indihometv.com/logo_transtv_ver2.png",TRANSTV
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
