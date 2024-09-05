@@ -1,0 +1,4 @@
+
+https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
+
+https://useetvwv.visionplus.id/playing/channels/2
