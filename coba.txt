@@ -1,10 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="LOKAL"  tvg-logo="https://images.indihometv.com/logo_antvnew_small.png",ANTV
-https://streaming.indihometv.com/atm/hlsv3/ANTV/playlist.m3u8?enc=K6y_Bs5b2FesLpqnOK5S2A&exp=1725515756&encp=IaZukpsr-Dc1x3rMjHoHEQ&expp=1725526256
-
-#EXTINF:-1 group-title="LOKAL"  tvg-logo="https://images.indihometv.com/logo_transtv_ver2.png",TRANSTV
-https://streaming.indihometv.com/atm/hlsv3/transtv/playlist.m3u8?enc=gDZAf0yX0yZTwhhG0WstaA&exp=1725516032&encp=cO4k9-TY6uzoZrGpATB64A&expp=1725526532
 
 #EXTINF:-1 group-title="LOKAL"  tvg-logo="https://images.indihometv.com/logo_transtv_ver2.png",TRANSTV
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
@@ -13,13 +8,7 @@ https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 https://streaming.indihometv.com/atm/hlsv3/sctv/playlist.m3u8?enc=krQS_W0hWLAEQo7bzx7s1g&exp=1725516228&encp=hPfEkm1TETB4Bkb_M_wN5Q&expp=1725526728
 
 #EXTINF:-1 group-title="LOKAL"  tvg-logo="https://images.indihometv.com/logo_indosiar_ver3.png",INDOSIAR
-https://streaming.indihometv.com/atm/hlsv3/indosiar/playlist.m3u8?enc=O0QGU2qBt0IzDQDjwSQtfw&exp=1725516346&encp=WDSc-BV7di1Zt_Dd71pEHQ&expp=1725526846
-
-#EXTINF:-1 group-title="LOKAL"  tvg-logo="https://images.indihometv.com/logo_indosiar_ver3.png",INDOSIAR
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
-
-#EXTINF:-1 group-title="LOKAL"  tvg-logo="https://images.indihometv.com/logo_trans7_ver1.png",TRANS7
-https://streaming.indihometv.com/atm/hlsv3/trans7/playlist.m3u8?enc=YXG8q7T4Oz0HJ6LGEp4J1w&exp=1725519305&encp=QjuXo7VMkS_sA-vGEVUI6A&expp=1725529805
 
 #EXTINF:-1 group-title="LOKAL"  tvg-logo="https://images.indihometv.com/logo_trans7_ver1.png",TRANS7
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
