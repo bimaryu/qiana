@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="LOKAL"  tvg-logo="https://images.indihometv.com/logo_indosiar_ver3.png",INDOSIAR1
+https://streaming.indihometv.com/atm/hlsv3/indosiar/playlist.m3u8?enc=r4MuYxRHvBsvajxj4SDJsg&exp=1725530779&encp=wX6eOxeS_feLsCkFucPhZQ&expp=1725541279
+
 #EXTINF:-1 group-title="LOKAL"  tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png",SCTV
 https://streaming.indihometv.com/atm/hlsv3/sctv/playlist.m3u8?enc=N6s9W3ebss2iuv2A4ujGYg&exp=1725530646&encp=iC7ga3xDJ-DaJo2ErN_aDw&expp=1725541146
 
