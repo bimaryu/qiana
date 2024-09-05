@@ -4,9 +4,6 @@
 #EXTINF:-1 group-title="LOKAL"  tvg-logo="https://images.indihometv.com/logo_transtv_ver2.png",TRANSTV
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
-#EXTINF:-1 group-title="LOKAL"  tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png",SCTV
-https://streaming.indihometv.com/atm/hlsv3/sctv/playlist.m3u8?enc=krQS_W0hWLAEQo7bzx7s1g&exp=1725516228&encp=hPfEkm1TETB4Bkb_M_wN5Q&expp=1725526728
-
 #EXTINF:-1 group-title="LOKAL"  tvg-logo="https://images.indihometv.com/logo_indosiar_ver3.png",INDOSIAR
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 
