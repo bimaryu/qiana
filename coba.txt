@@ -65,7 +65,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZmFiYmFjZmQtYzYyZi0zMGQxLWIzZTctNWFiMzZjMDA1ZWZl
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="LiveTv" tvg-logo="https://dl.dropboxusercontent.com/s/gw7a9w0miy795vy/rtv.png", RTV
+#EXTINF:-1 group-title="LiveTv" tvg-logo="https://lh3.googleusercontent.com/proxy/2GODyndgjg0Q7F4yrMnFuuiCbPSWRKDJEJA35slphNkYQiwbgzJNyvAmm4SSaSSvfOIXn817SWJtGNCYGr8Rp2PsvYE4luqYJg", RTV
 https://cempedak-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
 #EXTINF:-1 group-title="LiveTv"  tvg-logo="https://i.imgur.com/fdygcVx.png",BTV
