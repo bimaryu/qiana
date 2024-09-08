@@ -1,3 +1,25 @@
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+        <title>SpyIptv</title>
+        <script defer="defer" src="runtimechunk~popup.js"></script>
+        <script defer="defer" src="vendors.js"></script>
+        <script defer="defer" src="popup.js"></script>
+    </head>
+    <body>
+	
+	
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc_3w-vjrhJxl2IBIWmzO3BKXDuKJ0bgMOhoGiPruORbYv44Dv5AoEcNfdhCR2-IHF-XM&usqp=CAU"
+	
+        <div id="app"></div>
+    </body>
+
+</head>
+ 
+<noscript>
+
 #EXTM3U       url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
