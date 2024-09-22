@@ -7192,6 +7192,11 @@ https://streamer.zapitv.com/sevillafc/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00364ee1c777f44a74e4df12f3095503:77dee68a39366663755beb8fa62dcc1e
 https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31024/FHD/skysportarena/master.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+
+#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://i.ibb.co/jzZvcmP/Nba-hometv.jpg" group-title="CHANNEL | SPORT 2",NBA TV (Indi)
+https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
 
 #EXTINF:-1 tvg-id="Sky Sport Calcio.it" tvg-logo="https://i.ibb.co.com/qkrBGMd/skycalcio.png" group-title="CHANNEL | SPORT 2", Sky SPORT CALCIO 🇮🇹
 #KODIPROP:inputstreamaddon=inputstream.adaptive
