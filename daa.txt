@@ -1,5 +1,5 @@
 #EXTM3U
-
+#EXTINF:-1  tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg" group-title="AFC",SCTV_Gen
 ============================================ CHANNEL INDONESIA ==========================================================
 
 
