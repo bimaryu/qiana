@@ -595,13 +595,13 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-#EXTINF:-1 tvg-id="beIN SPORTS 4 (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="Sports" tvg-logo="https://ibb.co.com/n77rMQD", beIN Sports 4
+#EXTINF:-1 tvg-id="beIN SPORTS 4 (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="Sports" tvg-logo="https://i.ibb.co.com/rxxk25Z/bein4.png", beIN Sports 4
 https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN04/sa_dash_vmx/BEIN04.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
-#EXTINF:-1 tvg-id="beIN SPORTS 5 (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="Sports" tvg-logo="https://ibb.co.com/sHWpK6C", beIN Sports 5
+#EXTINF:-1 tvg-id="beIN SPORTS 5 (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" group-title="Sports" tvg-logo="https://i.ibb.co.com/pyh6fRQ/bein5.png", beIN Sports 5
 https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
