@@ -579,7 +579,7 @@ https://tglmp04.akamaized.net/out/v1/421a3cd3bdcd492f8f4b5efb2363ed2c/manifest.m
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="Piala Dunia kualifikasi" tvg-logo="https://i.ibb.co.com/F6R5p8r/indonesiavsbahrain.png",Bahrain.Indonesia
+#EXTINF:-1 group-title="Piala Dunia kualifikasi" tvg-logo="https://github.com/bimaryu/project/blob/main/hx720.png?raw=true",China.Indonesia
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
