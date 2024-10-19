@@ -1,5 +1,5 @@
-#EXTINF:-1 tvg-logo="https://github.com/bimaryu/project/blob/main/RCTI.png?raw=true" tvg-id="RCTI.id" tvg-name="ID: RCTI" group-title="INDONESIA 🇮🇩",TNT Sports 4
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoibHNYdmFVZVhNcTV6VDVZblNNR1hLUSIsImtpZCI6IjR4cGFnY3IvWFFmcUpCR2xjZnd1V1EifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
-https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+#EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://github.com/bimaryu/project/blob/main/SCTV.png?raw=true" group-title="INDONESIA 🇮🇩",SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0\ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
+http://iptvtree.net:8080/Luctv2024/c6b6031eb1/162141
