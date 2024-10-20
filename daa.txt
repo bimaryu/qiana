@@ -40,9 +40,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #EXTINF:-1 tvg-logo="https://github.com/bimaryu/project/blob/main/INews.png?raw=true" tvg-id="iNews.id" tvg-name="ID: iNews " group-title="INDONESIA 🇮🇩",iNews 
 https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" group-title="INDONESIA 🇮🇩",SCTV D
-http://iptvtree.net:8080/Luctv2024/c6b6031eb1/162141
-
 #EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://github.com/bimaryu/project/blob/main/SCTV.png?raw=true" group-title="INDONESIA 🇮🇩",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
