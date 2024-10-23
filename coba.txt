@@ -1,2 +1,7 @@
-#EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",Nature
-https://jacknod6.freedombetter54.shop/id/football/afc-u17-asian-cup-4016550/indonesia-u17-vs-kuwait-u17.html?icg=SUQ
+#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://github.com/bimaryu/project/blob/main/INDOSIAR.png?raw=true" group-title="INDONESIA 🇮🇩",Indosiar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eyJrZXlzIjpbeyJrdHkiOiJvY3QiLCJrIjoiWTZ4bUxkNHhEUHRNeHZtME96UVpiUSIsImtpZCI6InJpYUVXOU13T0tuQWQwb0pnUUJ5bEEifV0sInR5cGUiOiJ0ZW1wb3JhcnkifQ==
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
