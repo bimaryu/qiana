@@ -114,7 +114,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTINF:-1 tvg-logo="http://images.indihometv.com/box/logo_jaktv_small1.png?v=2.0.0.13" tvg-id="JakTV.id" tvg-name="ID: Jak TV" group-title="INDONESIA 🇮🇩",Jak TV
+#EXTINF:-1 tvg-logo="https://github.com/bimaryu/project/blob/main/jtv.png?raw=true" tvg-name="ID: Jak TV" group-title="INDONESIA 🇮🇩",Jak TV
 https://cempedak-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 
 #EXTINF:-1 tvg-id="JTV" tvg-logo="https://iili.io/JbtoFZ7.png" group-title="INDONESIA 🇮🇩",JTV
