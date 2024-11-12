@@ -114,10 +114,10 @@ https://cempedak-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTINF:-1 tvg-logo="https://github.com/bimaryu/project/blob/main/jtv.png?raw=true" tvg-name="ID: Jak TV" group-title="INDONESIA 🇮🇩",Jak TV
+#EXTINF:-1 tvg-logo="https://github.com/bimaryu/project/blob/main/jaktv.png?raw=true" tvg-name="ID: Jak TV" group-title="INDONESIA 🇮🇩",Jak TV
 https://cempedak-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 
-#EXTINF:-1 tvg-id="JTV" tvg-logo="https://iili.io/JbtoFZ7.png" group-title="INDONESIA 🇮🇩",JTV
+#EXTINF:-1 tvg-id="JTV" tvg-logo="https://github.com/bimaryu/project/blob/main/jtv.png?raw=true" group-title="INDONESIA 🇮🇩",JTV
 https://63b2dc7196c38.streamlock.net:1937/ch2/myStream/playlist.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
