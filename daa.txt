@@ -547,7 +547,11 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
 https://tglmp04.akamaized.net/out/v1/421a3cd3bdcd492f8f4b5efb2363ed2c/manifest.mpd
 
 =================================================== SPORTS ====================================================================
-
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTINF:-1 tvg-logo="https://static.mncnow.id/images/channel/d8b01cfc-234.jpg" tvg-id="Sportstar2.id" tvg-name="ID: Sportstar 2" group-title="AFC|Indonesia|19.00wib",INDONESIA vs JEPANG
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
