@@ -1,7 +1,7 @@
 ============================================ CHANNEL INDONESIA ==========================================================
 
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/225/351225-SNAPSHOT-m.jpg" group-title=INDONESIA 🇮🇩, NONTON TIMNAS AFC U17 
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/225/351225-SNAPSHOT-m.jpg" group-title="INDONESIA 🇮🇩", NONTON TIMNAS AFC U17 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rp/drm.php?id=113
