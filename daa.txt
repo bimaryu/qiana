@@ -1,11 +1,10 @@
 ============================================ CHANNEL INDONESIA ==========================================================
 
 #EXTM3U
-#EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-logo="https://www.visionplus.id/images/repository/225/351225-SNAPSHOT-m.jpg" group-title="INDONESIA 🇮🇩",NONTON TIMNAS AFC U17 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/sportstars.png" group-title="INDONESIA 🇮🇩",NONTON TIMNAS AFC U17 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.45.14
-#KODIPROP:inputstream.adaptive.license_key=http://joss.biz.id/rcplus/drm.php?id=113
-http://joss.biz.id/rcplus/index.mpd?id=113
+#KODIPROP:inputstream.adaptive.license_key=https://vision.2025stviptv.workers.dev/?id=113
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd|referer=https://www.visionplus.id/
 
 #EXTINF:-1 tvg-id="Hanacaraka TV - [Channel 90].id" tvg-logo="https://iili.io/2ckWLtp.png" group-title="INDONESIA 🇮🇩",Hanacaraka TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -539,9 +538,10 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/so
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar-avc1_1000000=4.m3u8
 
-#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_422.png" group-title="Sports",Sportstars 2 HD
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://d1d2sbhidw0n3y.cloudfront.net/out/v1/cee2ab61ee8d4ff19cb0f0bffc37f9b8/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/sportstars.png" group-title="Sports",Sportstars 2 HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vision.2025stviptv.workers.dev/?id=113
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd|referer=https://www.visionplus.id/
 
 #EXTINF:-1 tvg-logo="http://images.indihometv.com/box/logo_spotv_ver1.png" tvg-id="SPOTV.id" tvg-name="ID: SPOTV" group-title="Sports",SPOTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
