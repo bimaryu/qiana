@@ -512,17 +512,17 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/Paramount-HD/sa_dash_vmx/Paramoun
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
-#EXTINF:-1 tvg-id="Sportstars HD - [Channel 421].id" tvg-logo="https://iili.io/JjzV4ol.png" group-title="Sports",Sportstars 1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.2025stviptv.workers.dev/?id=112
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+#EXTINF:0 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_421.png" group-title="Sports",Sportstars 1 
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar-avc1_1000000=4.m3u8
 
-#EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" group-title="Sports" tvg-logo="https://iili.io/JjzV89s.png",Sportstars 2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png",Sportstars 2
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.2025stviptv.workers.dev/?id=113
-#EXTVLCOPT:http-referrer=https://visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm.php/widevine?id=113
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+
 
 #EXTINF:-1 tvg-id="Sportstars 3 HD - [Channel 423].id" group-title="Sports" tvg-logo="https://iili.io/3H605iv.png",Sportstars 3
 #KODIPROP:inputstream.adaptive.license_type=https://multidrm.core.verimatrixcloud.net/widevine
