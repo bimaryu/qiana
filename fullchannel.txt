@@ -2,14 +2,13 @@
 
 #EXTM3U
 
-#EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/.info_logo.png/800px-.info_logo.png" tvg-id="", INFO
-https://cdn.jsdelivr.net/gh/bimaryu/project/info.mp4
 
-#EXTINF:-1 tvg-id="Hanacaraka TV - [Channel 90].id" tvg-logo="https://iili.io/2ckWLtp.png" group-title="INDONESIA 🇮🇩",Hanacaraka TV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eeba2c9c08078d2a729328dbcd1e002b:19090336609b8f4fee1e7aea837a10d9
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://d1abp075u76pbq.cloudfront.net/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/hh/hanacaraka-tv-id.png" group-title="INDONESIA 🇮🇩",Hanacaraka TV
+https://dsgtq5sngxkde.cloudfront.net/live/eds/LifeStyleFashion/sa_dash/LifeStyleFashion.mpd
 
 #EXTINF:-1 tvg-id="17" tvg-logo="https://www.dens.tv/images/channel-logo/17.jpg" group-title="INDONESIA 🇮🇩", TVRI
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -24,20 +23,26 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
+#EXTINF:0 tvg-id="RCTI.id" group-title="INDONESIA 🇮🇩" tvg-logo="https://iili.io/3xLiTap.png",RCTI
+https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ID: RCTI" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="INDONESIA 🇮🇩",RCTI
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157591
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV" tvg-logo="https://iili.io/JMp3kla.png" group-title="INDONESIA 🇮🇩", MNCTV
-https://d1abp075u76pbq.cloudfront.net/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd|Referer=https://www.visionplus.id
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/949/49949-SNAPSHOT-m.png" group-title="INDONESIA 🇮🇩",MNC TV
+https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
 
 
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/logo_gtv_hd.png" group-title="INDONESIA 🇮🇩",GTV (R+)
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+
+#EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-id="GTV.id" tvg-logo="https://iili.io/JMp3joP.png",GTV V+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-cdn-fly.mncnow.id/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/90SdQqyD/INews.png" group-title="INDONESIA 🇮🇩",INEWS (R+)
 #EXTVLCOPT:http-user-agent=android-R+
@@ -138,24 +143,6 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=26cc3e3343858d3986322f16e10b5823:0ad735e707e1c79bc550efa49f2ea4bd
 #EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-id="Sindo News TV HD - [Channel 434].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/026/50026-SNAPSHOT-l.png",SindoNews
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="http://images.indihometv.com/box/logo_balitv_small1.png?v=2.0.0.13" tvg-id="BaliTV.id" tvg-name="ID: Bali TV" group-title="INDONESIA 🇮🇩",Bali TV
 #EXTVLCOPT:http-referrer=https://visionplus.id
