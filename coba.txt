@@ -1,5 +1,5 @@
-#EXTINF:-1 group-title="V++" tvg-id="lifestylefashion.id" tvg-logo="https://iptv.urfan.web.id/logo/lifestylefashion.png",Hanacaraka
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://cempedak-cdn-fly.mncnow.id/live/eds/LifeStyleFashion/sa_dash/LifeStyleFashion.mpd
+#EXTINF:-1 group-title="Daerah" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHEoMTCjeR-gdWxPmI6dtPMeh8WsV85ZplhA&s",Hanacaraka TV
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0de1f882d278465abdba73a8b4cb2bda:7061f5e1115d6ef504726c3faa8bf146
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd
