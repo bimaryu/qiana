@@ -3,41 +3,6 @@
 ============================================ CHANNEL INDONESIA ==========================================================
 
 #EXTM3U
-#EXTINF:-1 group-title="Bola Indo" tvg-logo="1", Indonesia vs Chinese Taipei - Timnas Garuda Matchday 
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://spacetv.my.id/drm.kt?id=19497&type=drm
-https://spacetv.my.id/index.mpd?id=19497&type=dash
-
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" group-logo="https://raw.githubusercontent.com/feryinternet/feryinternet/main/logo.png" tvg-url="https://github.com/warningfm/v2/blob/cloud/vidio.com.xml" tvg-id="ChampionsTV1.id" tvg-logo="https://raw.githubusercontent.com/jawaionline/jawaionline/main/logo/Champions_TV_1.png" group-title="Bola Indo", Champions TV 1 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play?id=17938&type=drm
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://bitter-boa-67.deno.dev/play.mpd?id=17938&type=dash
-
-#EXTINF:-1 group-title="Bola Indo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcHhZ7FRYzUwguZEO9bMS6h2EcUVm15_UO7S752Zxbd-WU7D6ck_J2zzg&s=10", Champions TV 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play?id=6686&type=drm
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://bitter-boa-67.deno.dev/play.mpd?id=6686&type=dash
-
-#EXTINF:-1 group-title="Bola Indo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyf2N_wkrTS5jjukrnos87k58yyzuD7mZTqA&s", Champions TV 3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play?id=6786&type=drm
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://bitter-boa-67.deno.dev/play.mpd?id=6786&type=dash
-
-#EXTINF:-1 group-title="Bola Indo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmu00mZVoYrj6HRfcqbQBHmnv_u--t1s24vQ&s", Champions TV 5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play?id=9182&type=drm
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://bitter-boa-67.deno.dev/play.mpd?id=9182&type=dash
-
-#EXTINF:-1 group-title="Bola Indo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFc81aUs7m_kZF4GDOSs0jCsfZPCISwAlDxw&s", Champions TV 6
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bitter-boa-67.deno.dev/play?id=9183&type=drm
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://bitter-boa-67.deno.dev/play.mpd?id=9183&type=dash
 
 #EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHEoMTCjeR-gdWxPmI6dtPMeh8WsV85ZplhA&s",Hanacaraka TV
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
