@@ -3,6 +3,8 @@
 ============================================ CHANNEL INDONESIA ==========================================================
 
 #EXTM3U
+#EXTINF:-1 tvg-id="kick" tvg-name="Kick Live" group-title="Kick", Kick Stream
+https://aps13.playlist.live-video.net/v1/playlist/CuUF7mrzUR-rZdKZPMhl2H04bVldY6VnVbaF-MzfybVSREL-LxAYoTvwtttzSUcfp32347xDHLnF0ys-nqzmdi3bQAyBP8HCYw5iaXJs-4kDFnI0hsyY8xO8w9IJ3VCx48hOTER2i1jfQnRgHmEB46hTHupTAu0Vv0tyvVWj-y5Q8wAaYzkAF80oN-YV24Rpv18n4VwM21sJ6izVpTdZ4wWltA-DRVcDPQhcaG7qXWWptNhBBukGHI00Z5QO2aVnRp-2hytpOZP07xKcbjUfGbXPd4uhlackVIugiiFFTa5KDM5BjgwIqEP8InoHcb7imAsSp7U2ZdwL9as8yTeg9-3S_5gqAaBLaLLJsL9Tx30RwvXlnWKMg1GliPBVahsD6lryN5-S9RPVnWOEFqNNhMvnn-sj51p2QVh9frPtzD0aiIO84smKTyWIxRP9GLzLDulcYSuM0xN42FCmj8d_stUQ4R-aLx418PazYl8P0ye4knqfN3hDaaiBi6ioEE5i3kFa84JLMOyLFiMexK1UHyGnVSakW0ih0gwIwokTxOUQsWUH7lKOlEpnEj_kXAJn07rUmQTYiVOtrqQs-7HOp28xlhJiEAx1A6HEkeorU6M293bJzVPd2fOZGwb7BbNLIwwwYejAuturSm2tQjI4yhH7QiX0g72N92icnzwz1ksMcjGjcJlF8Hw78z_zqbqjbPGpImvZUuiyZzviqZz2cU4VeK3SqsBQziNkRCKmBNnHiLSj3Qca6tasyRX51XwhFnQzbumafyoIlEP5wXBRAlbID7eU3D9iQ906eaqHn896HfA8RwzQyY-5ni3CoRjzZmKmw8w4WCs3ph2K1YPCTpSdZuVrbbCGzP-TG-Ct6VoBi_LDVDmfx5qImyp1oOqB_oQBtSBMsg8XtrFBjhVUrpMAu7uXHRSDzCrUduQdUjS4ZK11N0CXluGZr5XwMPv5afigMTVeTZc7gNI9vqVJ1jkJfoyAP-j9GgxKRHieEzy0fqa5ilAgASoJdXMtd2VzdC0yMJcN.m3u8
 
 #EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHEoMTCjeR-gdWxPmI6dtPMeh8WsV85ZplhA&s",Hanacaraka TV
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
@@ -634,6 +636,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/
 
 #EXTINF:-1 tvg-id="Indonesiana TV" tvg-url="https://i.imgur.com/eNCpgMp.jpeg" tvg-logo="https://i.imgur.com/eNCpgMp.jpeg" group-title="INDONESIA 🇮🇩",Indonesiana TV 
 https://tvstreamcast.com/indonesiana.m3u8
+
 
 
 
