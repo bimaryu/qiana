@@ -4,7 +4,9 @@
 
 #EXTM3U
 
-#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="INDONESIA 🇮🇩", live indo
+http://iptvtree.net:8080/live/F28312/cc1dc138/162138.ts
 
 
 #EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHEoMTCjeR-gdWxPmI6dtPMeh8WsV85ZplhA&s",Hanacaraka TV
