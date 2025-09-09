@@ -4,10 +4,9 @@
 
 #EXTM3U
 
-#EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",live indo
-#EXTVLCOPT:http-referrer=https://kami.drawntightlymuxulx.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://fhlsport121.fjs40b8.xyz/token-LEV6kuHAKP6G7WJ7l%2FY6ymKGlMPUgC%2FjaCH7z6UaEDD14%2BTPHUFdD40orRBBWEtJBCeIwDdmmvw%3Da/v3/get/s3/aHR0cHM6Ly9wbGF5LnJ3YWJ3by5jb20=/rrty/sd-1-4425416.m3u8?txSecret=79437299bab2ff1711b95749295f0d01&txTime=68C00672
+#EXTM3U
+#EXTINF:-1 group-title="INDONESIA 🇮🇩", live
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1757440133/ei/JRTAaNbYE82TvcAPxu2Y2Ak/ip/182.8.226.161/id/p7T5kjKreos.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/ATw7iSXi8aTX8CLYC_9IJkv-rcciBqFYLsohM3Af8q__mcbfC1oSuSZ9jjIzVcdosO-UnFBlWsL1S2-5/spc/hcYD5Uq--sgX3AkjD7IjToBgPyTmjbuMfYIE009aVgUuNBJB8wZx/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgBXD8oQ-TgSxRZ6MJs7R24-8fvPrQVv2tnDa18ca8sfUCIQDuyYTRBJkjZHefL3jrLQ_Wpyrb9QDQizoAZ0ZBMQ_JLQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHEoMTCjeR-gdWxPmI6dtPMeh8WsV85ZplhA&s",Hanacaraka TV
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
@@ -639,6 +638,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/
 
 #EXTINF:-1 tvg-id="Indonesiana TV" tvg-url="https://i.imgur.com/eNCpgMp.jpeg" tvg-logo="https://i.imgur.com/eNCpgMp.jpeg" group-title="INDONESIA 🇮🇩",Indonesiana TV 
 https://tvstreamcast.com/indonesiana.m3u8
+
 
 
 
