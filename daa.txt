@@ -4,9 +4,7 @@
 
 #EXTM3U
 
-#EXTINF:-1 group-title="INDONESIA 🇮🇩", momo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://bf.jalaplay.net/live/322656_FHD1080.m3u8?txSecret=8e02d1feaf5ed50fc85522a5d1e89210&txTime=68bf8b83
+
 
 #EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHEoMTCjeR-gdWxPmI6dtPMeh8WsV85ZplhA&s",Hanacaraka TV
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
