@@ -4,11 +4,9 @@
 
 #EXTM3U
 
-#EXTM3U
-#EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-id="" tvg-logo="https://i.ibb.co.com/Xph8BGq/live.gif",live indo
-#EXTVLCOPT:http-referrer=https://kami.drawntightlymuxulx.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://fhlsport121.fjs40b8.xyz/token-JkApzbWQL%2F6G7GB%2BxfY6zTqBlJqAgCvjbyH%2BxqVNETSn5LbNHUFdD40orhRKWktJBCeIwDdmmvw%3Da/cfall/s2001/v3b/95r15pq1nUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_616810.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/b2/7f/8b/b27f8ba87d49329044389c6c0c503ae4.jpg" group-title="INDONESIA 🇮🇩", live indo
+http://iptvtree.net:8080/live/F28312/cc1dc138/162138.ts
 
 #EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHEoMTCjeR-gdWxPmI6dtPMeh8WsV85ZplhA&s",Hanacaraka TV
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
@@ -640,6 +638,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/
 
 #EXTINF:-1 tvg-id="Indonesiana TV" tvg-url="https://i.imgur.com/eNCpgMp.jpeg" tvg-logo="https://i.imgur.com/eNCpgMp.jpeg" group-title="INDONESIA 🇮🇩",Indonesiana TV 
 https://tvstreamcast.com/indonesiana.m3u8
+
 
 
 
